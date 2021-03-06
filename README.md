@@ -1,2 +1,6 @@
-# imageDatabaseGalleryWebAppMongoDBWithImageSearchByContent
-Image Database Gallery Web App made using MongoDB and NodeJS With an Image Search By Content function (this is made with the help of Google Vision APIs using AI).
+# search-by-image-nodejs-mongodb-vision-ai
+This project represents a webapp (Node.js) connected to a non-relational database (MongoDB) capable of doing search by image. <br>
+Search by image is done using a annotated labels provided by Google's VisionAI API. <br>
+
+### Project set-up
+`Work in progress...`
